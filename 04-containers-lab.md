@@ -15,7 +15,8 @@ Use a Python-based [repl.it](https://repl.it/repls) to complete the following ex
 - Create a list named `students` containing some student names (strings).
 - Print out the second student's name.
 - Print out the last student's name.
-
+students = ['s1','s2','s3']
+print(students[1])
 #### Exercise 2
 
 - Create a tuple named `foods` containing the same number of foods (strings) as there are names in the `students` list.
